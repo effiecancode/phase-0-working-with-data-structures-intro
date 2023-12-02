@@ -119,7 +119,7 @@ Another way of thinking about `Array`s is that they are like tables that have an
 identifier that is a `Number`. If we let the identifier be a `String` _instead_
 of a `Number`, then we'd basically be describing an `Object`.
 
-What if we wanted to take our list of the Beatles and describe each member not
+What if we wanted to take our list of the Beatles and  describe each member not
 by some `Number` _index_, but rather by the instrument they played in the band?
 As a table this might look like:
 
